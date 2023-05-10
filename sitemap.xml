@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/help_hexo_cfg.html</loc>
+    <loc>http://example.com/post/ruanjian_23_05.html</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -11,16 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/help_hexo_doc.html</loc>
-    
-    <lastmod>2023-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/post/help_hexo_theme.html</loc>
+    <loc>http://example.com/post/help_user_cfg.html</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -38,7 +29,25 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/help_user_cfg.html</loc>
+    <loc>http://example.com/post/help_hexo_theme.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/help_hexo_doc.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/help_hexo_cfg.html</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -92,7 +101,25 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/ruanjian_23_05.html</loc>
+    <loc>http://example.com/archives/index.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/series/index.html</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -104,6 +131,24 @@
     <loc>http://example.com/post/hello-world.html</loc>
     
     <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/404.html</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/index.html</loc>
+    
+    <lastmod>2022-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
