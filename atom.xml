@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BM906</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-05-10T06:00:19.850Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>BM906</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试部项目详情--2023年05月</title>
+    <link href="http://example.com/post/cheshi_23_05.html"/>
+    <id>http://example.com/post/cheshi_23_05.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:00:19.850Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>- </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;- &lt;/p&gt;
+</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/cheshi.png" type="image"/>
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试部项目详情--2023年05月</title>
+    <link href="http://example.com/post/cheshi_23_06.html"/>
+    <id>http://example.com/post/cheshi_23_06.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:00:35.036Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>- </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;- &lt;/p&gt;
+</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/cheshi.png" type="image"/>
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试部项目详情--2023年05月</title>
+    <link href="http://example.com/post/cheshi_23_07.html"/>
+    <id>http://example.com/post/cheshi_23_07.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:00:41.060Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>- </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;- &lt;/p&gt;
+</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/cheshi.png" type="image"/>
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 安装文档</title>
+    <link href="http://example.com/post/help_hexo_cfg.html"/>
+    <id>http://example.com/post/help_hexo_cfg.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:04:44.226Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ul><li><p>步骤1、2，每台电脑需要安装一次</p></li><li><p>步骤4，只用创建一次，可忽略</p></li></ul><h1 id="1-install-Node"><a href="#1-install-Node" class="headerlink" title="1. install Node"></a>1. install Node</h1><p><a href="https://nodejs.org/en"><strong>nodejs.org</strong></a></p><p>推荐下载LTS（Long Time Support）版本</p><p>打开 Node.js command prompt</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\ProgramData\Microsoft\Windows\Start^Menu\Programs\Node.js\</span><br></pre></td></tr></table></figure><p>验证 version</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br><span class="line"><span class="comment">//v16.14.0    # 表示安装成功</span></span><br><span class="line"></span><br><span class="line">npm -v</span><br><span class="line"><span class="comment">//8.3.1       #</span></span><br></pre></td></tr></table></figure><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"># 先安装 hexo（第<span class="number">2</span>步）再查看hexo版本</span><br><span class="line">hexo -v</span><br><span class="line"><span class="comment">//hexo: 6.1.0   # 表示安装成功</span></span><br><span class="line"><span class="comment">//...</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><h1 id="2-install-hexo"><a href="#2-install-hexo" class="headerlink" title="2. install hexo"></a>2. install hexo</h1><p>在Git Bash中安装 hexo</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// --install</span></span><br><span class="line">npm install -g hexo-cli</span><br><span class="line"><span class="comment">// --或</span></span><br><span class="line">npm install hexo</span><br><span class="line"></span><br><span class="line"><span class="comment">// --更新至最新版本</span></span><br><span class="line">npm update hexo -g</span><br><span class="line"><span class="comment">// --Hexo 重新安装</span></span><br><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// --安装一键部署功能</span></span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h1 id="3-hexo-仓库"><a href="#3-hexo-仓库" class="headerlink" title="3. hexo 仓库"></a>3. hexo 仓库</h1><p>创建文件夹，D:\xx\hexo， 进入 hexo</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"># 在Git Bash中</span><br><span class="line">hexo init</span><br><span class="line"></span><br><span class="line"># 或创建子文件夹</span><br><span class="line">hexo init hexo_blog</span><br><span class="line">cd hexo_blog</span><br><span class="line"></span><br><span class="line"># 安装blog依赖包</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure><h1 id="4-Hexo-deploy-Github"><a href="#4-Hexo-deploy-Github" class="headerlink" title="4. Hexo deploy Github"></a>4. Hexo deploy Github</h1><p>创建github项目 Bm906.github.io</p><p><a href="https://github.com/Bm906/Bm906.github.io">https://github.com/Bm906/Bm906.github.io</a></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 第一次有些慢</span></span><br><span class="line">hexo deploy</span><br><span class="line"></span><br><span class="line"><span class="comment">// 重新部署</span></span><br><span class="line">hexo clean        <span class="comment">//清除pubilc文件 </span></span><br><span class="line">hexo generate     <span class="comment">//生成静态页面, 启动本地服务</span></span><br><span class="line">hexo deploy       <span class="comment">//部署站点，本地生成.deploy_git文件。并建编译后的文件上传至github</span></span><br><span class="line"><span class="comment">// 或者</span></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br><span class="line"></span><br><span class="line"><span class="comment">// 启动服务预览</span></span><br><span class="line">hexo server</span><br><span class="line"><span class="comment">// 或者</span></span><br><span class="line">hexo s</span><br><span class="line"><span class="comment">// --浏览器</span></span><br><span class="line">localhost:<span class="number">4000</span></span><br></pre></td></tr></table></figure><p>&#x2F;&#x2F; 浏览器预览Hexo<br><a href="https://bm906.github.io/">https://Bm906.github.io</a></p><h1 id="5-换电脑，覆盖3个文件"><a href="#5-换电脑，覆盖3个文件" class="headerlink" title="5. 换电脑，覆盖3个文件"></a>5. 换电脑，覆盖3个文件</h1><p>这里用“hexo:”表示hexo根目录</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo:source\</span><br><span class="line">hexo:themes\</span><br><span class="line">hexo:_config.yml</span><br></pre></td></tr></table></figure><h1 id="6-配置-config-yml"><a href="#6-配置-config-yml" class="headerlink" title="6. 配置 _config.yml"></a>6. 配置 _config.yml</h1><p>hexo:_config.yml</p><ul><li>修改部署–deploy</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// --注意冒号后面有一个空格</span></span><br><span class="line"><span class="comment">// --注意 https 换 git</span></span><br><span class="line"><span class="comment">// --注意 master 换 main</span></span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:Bm906/Bm906.github.io.git</span><br><span class="line">  <span class="meta"># example, https:<span class="comment">//github.com/hexojs/hexojs.github.io.git</span></span></span><br><span class="line">  branch: main</span><br><span class="line">  message: </span><br><span class="line"></span><br><span class="line"><span class="comment">// 以上repo为单ssh key地址, 而多ssh key地址用别名：</span></span><br><span class="line">  repo: git@Bm906.github.com:Bm906/Bm906.github.io.git</span><br></pre></td></tr></table></figure><ul><li>修改url–好像可不改</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">url: https:<span class="comment">//Bm906.github.io/Bm906.github.io</span></span><br></pre></td></tr></table></figure><ul><li>source–文档位置–不改</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">source_dir: source</span><br></pre></td></tr></table></figure><ul><li>title</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">title: BM906        <span class="comment">//网站标题</span></span><br><span class="line">subtitle: <span class="string">&#x27;&#x27;        //网站副标题</span></span><br><span class="line"><span class="string">description: &#x27;</span><span class="string">&#x27;     //网站描述</span></span><br><span class="line"><span class="string">keywords:           //</span></span><br><span class="line"><span class="string">author: BM906       //您的名字</span></span><br><span class="line"><span class="string">language: zh-CN     //网站使用的语言</span></span><br><span class="line"><span class="string">timezone: &#x27;</span><span class="string">&#x27;        //网站时区。</span></span><br></pre></td></tr></table></figure><h1 id="7-配置-package-json"><a href="#7-配置-package-json" class="headerlink" title="7. 配置 package.json"></a>7. 配置 package.json</h1><p>hexo:package.json</p><ul><li>json依赖包–不改–换主题后可能要改</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;hexo-renderer-ejs&quot;</span>: <span class="string">&quot;^2.0.0&quot;</span>,</span><br><span class="line"><span class="string">&quot;hexo-renderer-marked&quot;</span>: <span class="string">&quot;^6.0.0&quot;</span>,</span><br><span class="line"><span class="string">&quot;hexo-renderer-stylus&quot;</span>: <span class="string">&quot;^2.1.0&quot;</span>,</span><br></pre></td></tr></table></figure><ul><li>hexo版本–不改</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;hexo&quot;</span>: &#123;</span><br><span class="line">  <span class="string">&quot;version&quot;</span>: <span class="string">&quot;6.3.0&quot;</span></span><br><span class="line">&#125;,</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;注意事项&quot;&gt;&lt;a href=&quot;#注意事项&quot; class=&quot;headerlink&quot; title=&quot;注意事项&quot;&gt;&lt;/a&gt;注意事项&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;步骤1、2，每台电脑需要安装一次&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;步骤4，只用创建一次，可忽略&lt;/p&gt;
+</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/help.png" type="image"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/categories/%E5%B8%AE%E5%8A%A9/"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 新建文档</title>
+    <link href="http://example.com/post/help_hexo_doc.html"/>
+    <id>http://example.com/post/help_hexo_doc.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:04:29.611Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-hexo-new"><a href="#1-hexo-new" class="headerlink" title="1. hexo new"></a>1. hexo new</h1><p>新建文章</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo new [layout] &lt;title&gt;</span><br><span class="line"></span><br><span class="line">hexo new <span class="string">&quot;如何在hexo上创建一篇文章&quot;</span></span><br></pre></td></tr></table></figure><p>文章位置</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo:source\_posts\</span><br><span class="line">hexo:source\_posts\xx.md</span><br></pre></td></tr></table></figure><h1 id="2-hexo-部署"><a href="#2-hexo-部署" class="headerlink" title="2. hexo 部署"></a>2. hexo 部署</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 第一次有些慢</span></span><br><span class="line">hexo deploy</span><br><span class="line"></span><br><span class="line"><span class="comment">// 重新部署</span></span><br><span class="line">hexo clean        <span class="comment">//清除pubilc文件 </span></span><br><span class="line">hexo generate     <span class="comment">//生成静态页面, 启动本地服务</span></span><br><span class="line">hexo deploy       <span class="comment">//部署站点，本地生成.deploy_git文件。并建编译后的文件上传至github</span></span><br><span class="line"><span class="comment">// 或者</span></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br><span class="line"></span><br><span class="line"><span class="comment">// 启动服务预览</span></span><br><span class="line">hexo server</span><br><span class="line"><span class="comment">// 或者</span></span><br><span class="line">hexo s</span><br><span class="line"><span class="comment">// --浏览器</span></span><br><span class="line">localhost:<span class="number">4000</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-hexo-new&quot;&gt;&lt;a href=&quot;#1-hexo-new&quot; class=&quot;headerlink&quot; title=&quot;1. hexo new&quot;&gt;&lt;/a&gt;1. hexo new&lt;/h1&gt;&lt;p&gt;新建文章&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/help.png" type="image"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/categories/%E5%B8%AE%E5%8A%A9/"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>参考文档--md用法</title>
+    <link href="http://example.com/post/help_md.html"/>
+    <id>http://example.com/post/help_md.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:03:47.325Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><ol><li><p>大标题<br>&#x2F;&#x2F;大标题<br>&#x2F;&#x2F;&#x3D;&#x3D;&#x3D;&#x3D;  (1个以上)</p></li><li><p>中标题<br>&#x2F;&#x2F;中标题<br>&#x2F;&#x2F;——-  (1个以上)</p></li><li><p>显示直线<br>&#x2F;&#x2F; 空行<br>&#x2F;&#x2F;— (3个以上)<br>&#x2F;&#x2F;* (3个以上)<br>&#x2F;&#x2F;_ (3个以上)</p></li><li><p>小标题<br>&#x2F;&#x2F;#一级标题        (同大标题)</p></li></ol><p>&#x2F;&#x2F;##二级标题       (同中标题)<br>&#x2F;&#x2F;###三级标题<br>&#x2F;&#x2F;####四级标题<br>&#x2F;&#x2F;#####五级标题<br>&#x2F;&#x2F;######六级标题</p><ol start="5"><li>锚点<br>&#x2F;&#x2F;<a href="#readme">回到顶部</a></li></ol><h1 id="换行-分隔线"><a href="#换行-分隔线" class="headerlink" title="换行, 分隔线"></a>换行, 分隔线</h1><ol><li><p>换行<br>&#x2F;&#x2F;<br><br>&#x2F;&#x2F;或, 连续两个以上空格+回车</p></li><li><p>非换行<br>&#x2F;&#x2F;&lt;br&gt;</p></li><li><p>首空格<br>&#x2F;&#x2F;改成全角</p></li><li><p>换行<br>&#x2F;&#x2F;直接回车不能换行，<br>&#x2F;&#x2F;可以在上一行文本后面补两个空格，<br>&#x2F;&#x2F;或者就是在两行文本直接加一个空行，不过这个行间距有点大。</p></li><li><p>分隔线<br>&#x2F;&#x2F;—</p></li></ol><h1 id="高亮-斜体-加粗-删除线"><a href="#高亮-斜体-加粗-删除线" class="headerlink" title="高亮, 斜体, 加粗, 删除线"></a>高亮, 斜体, 加粗, 删除线</h1><ol><li><p>高亮<br>&#x2F;&#x2F;Thank <code>You</code> . Please <code>Call</code> Me <code>Coder</code></p></li><li><p>斜体<br>&#x2F;&#x2F;<em>Hello World</em><br>&#x2F;&#x2F;<em>Hello World</em></p></li><li><p>加粗<br>&#x2F;&#x2F;<strong>Hello World</strong><br>&#x2F;&#x2F;<strong>Hello World</strong></p></li><li><p>斜粗体<br>&#x2F;&#x2F;<em><strong>Hello World</strong></em><br>&#x2F;&#x2F;<em><strong>Hello World</strong></em></p></li><li><p>删除线<br>&#x2F;&#x2F;<del>this</del></p></li></ol><h1 id="符号"><a href="#符号" class="headerlink" title="符号"></a>符号</h1><ol><li><p>圆点符，*+空格<br>&#x2F;&#x2F;* 昵称：果冻虾仁<br>&#x2F;&#x2F;* 别名：隔壁老王<br>&#x2F;&#x2F;* 英文名：Jelly</p></li><li><p>二级圆点和三级圆点，多加一个Tab</p></li><li><p>缩进<br>&#x2F;&#x2F;&amp;ensp; 半角的空格<br>&#x2F;&#x2F;&amp;emsp; 全角的空格</p></li></ol><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><ol><li><p>无序列表<br>&#x2F;&#x2F;*Red<br>&#x2F;&#x2F;+Green<br>&#x2F;&#x2F;-Blue</p></li><li><p>有序列表, 数字+句点<br>&#x2F;&#x2F;1.hello</p></li></ol><h1 id="缩进"><a href="#缩进" class="headerlink" title="缩进"></a>缩进</h1><ol><li>缩进<br>&#x2F;&#x2F;&gt;数据结构<br>&#x2F;&#x2F;&gt;&gt;树<br>&#x2F;&#x2F;&gt;&gt;&gt;二叉树<br>&#x2F;&#x2F;&gt;&gt;&gt;&gt;平衡二叉树<br>&#x2F;&#x2F;&gt;&gt;&gt;&gt;&gt;满二叉树</li></ol><h1 id="字体颜色"><a href="#字体颜色" class="headerlink" title="字体颜色"></a>字体颜色</h1><ol><li><p>字体颜色 （无效)<br><font color="#FF4500">我要变成这个颜色#FF4500</font></p></li><li><p>字体大小(1号最小)<br><font size="1">我要变成1号字</font><br><font size="2">我要变成2号字</font><br><font size="3">我要变成3号字</font><br><font size="4">我要变成4号字</font><br><font size="5">我要变成5号字</font><br><font size="6">我要变成6号字</font><br><font size="7">我要变成7号字</font></p></li><li><p>文字背景<br>&#x2F;&#x2F;<table><tr><td bgcolor="#7FFF00">我要变成#7FFF00背景色</td></tr></table><br>&#x2F;&#x2F;<table><tr><td bgcolor="#D2691E">我要变成#D2691E背景色</td></tr></table><br>&#x2F;&#x2F;<table><tr><td bgcolor="#6495ED">我要变成#6495ED背景色</td></tr></table><br>&#x2F;&#x2F;<table><tr><td bgcolor="#FFF8DC">我要变成#FFF8DC背景色</td></tr></table><br>&#x2F;&#x2F;<table><tr><td bgcolor="#008B8B">我要变成#008B8B背景色</td></tr></table><br>&#x2F;&#x2F;<table><tr><td bgcolor="#A9A9A9">我要变成#A9A9A9背景色</td></tr></table><br>&#x2F;&#x2F;<table><tr><td bgcolor="#8FBC8F">我要变成#8FBC8F背景色</td></tr></table></p></li></ol><h1 id="勾选项"><a href="#勾选项" class="headerlink" title="勾选项"></a>勾选项</h1><p>&#x2F;&#x2F;-[x]这是一个完整的项目<br>&#x2F;&#x2F;-[]这是一个不完整的项目</p><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><ol><li>文字超链接<br>&#x2F;&#x2F;<a href="http://blog.csdn.net/guodongxiaren">我的博客</a><br>&#x2F;&#x2F;<a href="http://blog.csdn.net/guodongxiaren" title="悬停显示">我的博客</a></li></ol><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><ol><li>图片<br>&#x2F;&#x2F;<img src="http://www.baidu.com/img/bdlogo.gif"><br>&#x2F;&#x2F;<img src="http://www.baidu.com/img/bdlogo.gif" alt="baidu"><br>&#x2F;&#x2F;<img src="http://www.baidu.com/img/bdlogo.gif" alt="baidu" title="百度logo"><br><a href="http://github.com/">GitHub</a></li></ol><p>&#x2F;&#x2F;<img src="/images/logo.png" alt="GitHub Logo"><br>&#x2F;&#x2F;<img src="/./example" alt="GitHub Logo"></p><p>&#x2F;&#x2F; 引用其他仓库图片<br><img src="https://github.com/seefs/MyImage/raw/master/ctImage/shot1.jpg" alt="shot1"></p><ol start="2"><li>图片超链接<br>&#x2F;&#x2F;<br>&#x2F;&#x2F;<a href="http://baidu.com/">![baidu]</a><br>&#x2F;&#x2F;<br>&#x2F;&#x2F;[baidu]:<a href="http://www.baidu.com/img/bdlogo.gif">http://www.baidu.com/img/bdlogo.gif</a> “百度Logo”<br>&#x2F;&#x2F; 一定要保证上下两行的 标识 是一致的</li></ol><p>&#x2F;&#x2F;<br>![baidu][baidu-logo]<br>&#x2F;&#x2F;<br>[baidu-logo]:<a href="http://www.baidu.com/img/bdlogo.gif">http://www.baidu.com/img/bdlogo.gif</a> “百度logo”</p><ol start="3"><li><p>图片居中</p><div align="center"><img src="https://www.bobinsun.cn/assets/images/logo-top.jpg"/></div></li><li><p>自定义图片大小与位置</p><div align="center"><img width="200" height="auto" src="https://www.bobinsun.cn/assets/images/logo-top.jpg"/></div></li></ol><h1 id="代码段"><a href="#代码段" class="headerlink" title="代码段"></a>代码段</h1><ol><li>代码段, 还可以将代码缩进四个空格<br>&#x2F;&#x2F;&#96;&#96;&#96;java</li></ol><p>&#x2F;&#x2F;abc<br>&#x2F;&#x2F;&#96;&#96;&#96;</p><p>&#x2F;&#x2F;<code>c //abc //</code></p><p>&#x2F;&#x2F;<code>c++ 或cpp //abc //</code></p><ol start="2"><li>代码段, diff可以改背景<figure class="highlight diff"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="addition">+ 人闲桂花落，</span></span><br><span class="line"><span class="deletion">- 夜静春山空。</span></span><br><span class="line"><span class="addition">! 月出惊山鸟，</span></span><br><span class="line"># 时鸣春涧中。</span><br></pre></td></tr></table></figure></li></ol><h1 id="文本"><a href="#文本" class="headerlink" title="文本"></a>文本</h1><ol><li><p>单行文本<br>&#x2F;&#x2F;(空行)<br>&#x2F;&#x2F;使用1个Tab(或4个空格)实现单行文本<br>&#x2F;&#x2F;(空行)</p></li><li><p>多行文本<br>&#x2F;&#x2F;(空行)<br>&#x2F;&#x2F;每行行首加1个Tab(或4个空格)<br>&#x2F;&#x2F;(空行)</p></li><li><p>可以用&#96;&#96;&#96;</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. xxx</span><br><span class="line">   1. xxx</span><br><span class="line">      1. xxx</span><br></pre></td></tr></table></figure></li></ol><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><ol><li><p>表格<br>&#x2F;&#x2F;声调 | 编码<br>&#x2F;&#x2F;———— | ————-<br>&#x2F;&#x2F;1 | 1<br>&#x2F;&#x2F;2 | 2<br>&#x2F;&#x2F;3 | 2<br>&#x2F;&#x2F;4 | 3</p></li><li><p>对齐<br>&#x2F;&#x2F;| 左对齐 | 居中  | 右对齐 |<br>&#x2F;&#x2F;| :———— |:—————:| —–:|<br>&#x2F;&#x2F;| col 3 is      | some wordy text | $1600 |<br>&#x2F;&#x2F;| col 2 is      | centered        |   $12 |<br>&#x2F;&#x2F;| zebra stripes | are neat        |    $1 |</p></li></ol><h1 id="文件"><a href="#文件" class="headerlink" title="文件"></a>文件</h1><ol><li><p>csv 表格<br>&#x2F;&#x2F; 用xls不方便预览</p></li><li><p>jpg<br>&#x2F;&#x2F; 建议尺寸:768*xxx</p></li></ol><h1 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h1><video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>//src：视频地址---http://qiniu.swarma.org/newUser.mp4////controls：显示或隐藏播放器 true/false////width：播放器宽度////height：播放器的高度<h1 id="Emoji表情符号"><a href="#Emoji表情符号" class="headerlink" title="Emoji表情符号"></a>Emoji表情符号</h1><p>&#x2F;&#x2F;资源链接:EMOJI CHEAT SHEET:<a href="https://www.webfx.com/tools/emoji-cheat-sheet/">https://www.webfx.com/tools/emoji-cheat-sheet/</a></p><p>&#x2F;&#x2F;比如<code>:blush:</code>，可以显示:blush:。</p><h1 id="锚点–目录"><a href="#锚点–目录" class="headerlink" title="锚点–目录"></a>锚点–目录</h1><p>&#x2F;&#x2F;[Top]（#readme）</p><p>&#x2F;&#x2F;## 目录</p><p>&#x2F;&#x2F;* <a href="#%E6%A8%AA%E7%BA%BF">横线</a><br>&#x2F;&#x2F;* <a href="#%E6%A0%87%E9%A2%98">标题</a><br>&#x2F;&#x2F;* <a href="#%E6%96%87%E6%9C%AC">文本</a></p><p>&#x2F;&#x2F; 功能不好用, 不能带标点符号与空格；也不能来回跳；</p><h1 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h1><dl><dt>; xxxx (html不显示)</dt><dd>xxxx (html显示)</dd></dl><h1 id="参考项目"><a href="#参考项目" class="headerlink" title="参考项目"></a>参考项目</h1><p>&#x2F;&#x2F;参考项目<br>Save:node\S\project\Macro_S_Personality.h<br>&#x2F;&#x2F;参考项目<br>Save:node\Pythons\project\Macro_nlp_block.h</p><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>&#x2F;&#x2F; markdown<br><a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a></p><p>&#x2F;&#x2F;Markdown是一种轻量级标记语言<br>GitHub 使用的是 “ GitHub Flavored Markdown ” ,简称GFM</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;大标题&lt;br&gt;&amp;#x2F;&amp;#x2F;	大标题&lt;br&gt;&amp;#x2F;&amp;#x2F;	&amp;#x3D;&amp;#x3D;&amp;#x3D;&amp;#x</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/help.png" type="image"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/categories/%E5%B8%AE%E5%8A%A9/"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 更新主题</title>
+    <link href="http://example.com/post/help_hexo_theme.html"/>
+    <id>http://example.com/post/help_hexo_theme.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:04:18.917Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ul><li><p>很多主题安装会报错</p></li><li><p>以下是能未报错的主题</p></li></ul><h1 id="1-默认主题"><a href="#1-默认主题" class="headerlink" title="1.默认主题"></a>1.默认主题</h1><h1 id="2-geektutu-主题"><a href="#2-geektutu-主题" class="headerlink" title="2.geektutu 主题"></a>2.geektutu 主题</h1><ul><li>下载主题<br>[&#x2F;&#x2F;]: # (cmd_s: git clone <a href="https://github.com/geektutu/hexo-theme-geektutu">https://github.com/geektutu/hexo-theme-geektutu</a> themes&#x2F;geektutu)</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// theme</span></span><br><span class="line">git clone https:<span class="comment">//github.com/geektutu/hexo-theme-geektutu themes/geektutu</span></span><br></pre></td></tr></table></figure><p>&#x2F;&#x2F; hexo cfg</p><ul><li>_config.yml 修改<br>[&#x2F;&#x2F;]: # (hexo:_config.yml  theme)</li></ul><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// theme</span></span><br><span class="line">theme: geektutu</span><br></pre></td></tr></table></figure><h1 id="3-修改主题报错"><a href="#3-修改主题报错" class="headerlink" title="3.修改主题报错"></a>3.修改主题报错</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//以下命令分别执行即可</span></span><br><span class="line">npm install -g npm-check     <span class="comment">//安装npm-check</span></span><br><span class="line">npm-check                    <span class="comment">//查看系统插件是否需要升级</span></span><br><span class="line">npm install -g npm-upgrade   <span class="comment">//安装npm-upgrade</span></span><br><span class="line">npm-upgrade        <span class="comment">//更新package.json</span></span><br><span class="line"><span class="comment">//在执行npm-upgrade命令后会要求输入yes或者no，直接输入Yes或Y即可</span></span><br><span class="line">npm update -g      <span class="comment">//更新全局插件</span></span><br><span class="line">npm update --save  <span class="comment">//更新系统插件</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">//install</span></span><br><span class="line">rm -rf node_modules &amp;&amp; npm install --force</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;注意事项&quot;&gt;&lt;a href=&quot;#注意事项&quot; class=&quot;headerlink&quot; title=&quot;注意事项&quot;&gt;&lt;/a&gt;注意事项&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;很多主题安装会报错&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;以下是能未报错的主题&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/help.png" type="image"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/categories/%E5%B8%AE%E5%8A%A9/"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>申请git账号与ssh配置</title>
+    <link href="http://example.com/post/help_user_cfg.html"/>
+    <id>http://example.com/post/help_user_cfg.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:03:10.699Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-申请github账号"><a href="#1-申请github账号" class="headerlink" title="1. 申请github账号"></a>1. 申请github账号</h1><p>先申请github账号，后面也可以转其他网站</p><p><a href="https://github.com/Bm906">https://github.com/Bm906</a></p><p><font color="#666666"><a href="mailto:&#120;&#x75;&#120;&#x69;&#97;&#x6e;&#x67;&#x67;&#97;&#x6e;&#103;&#95;&#98;&#109;&#x40;&#x31;&#54;&#x33;&#46;&#99;&#x6f;&#109;">&#120;&#x75;&#120;&#x69;&#97;&#x6e;&#x67;&#x67;&#97;&#x6e;&#103;&#95;&#98;&#109;&#x40;&#x31;&#54;&#x33;&#46;&#99;&#x6f;&#109;</a>, Xx_xxx</font></p><h1 id="2-创建-ssh-key"><a href="#2-创建-ssh-key" class="headerlink" title="2. 创建 ssh key"></a>2. 创建 ssh key</h1><p>每个公钥只能用一次，针对 Bm906.github.com 建议单独创建一个ssh key</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># 创建ssh命令</span><br><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;xxxx_bm@163.com&quot;</span> -f ~/.ssh/id_github2</span><br></pre></td></tr></table></figure><p>复制该密钥(id_xxx.pub)</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\&#123;Admin&#125;\.ssh\</span><br><span class="line">C:\Users\&#123;Admin&#125;\.ssh\id_github2.pub</span><br></pre></td></tr></table></figure><p>打开 github &gt;&gt; 点自己头像 &gt;&gt; settings &gt;&gt; SSH and GPG keys &gt;&gt;New SSH key</p><h1 id="3-给-GitHub-配置-2个不同-ssh-key"><a href="#3-给-GitHub-配置-2个不同-ssh-key" class="headerlink" title="3. 给 GitHub 配置 2个不同 ssh key"></a>3. 给 GitHub 配置 2个不同 ssh key</h1><p>参考设置: <a href="https://blog.csdn.net/qq_46450354/article/details/129997855">给 GitHub 配置 2个不同 ssh key</a></p><p>C:\Users{Admin}.ssh\config    &#x2F;&#x2F;修改config (区分2个github用户)</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"># Private GitHub instance</span><br><span class="line">Host xxxx.github.com</span><br><span class="line">HostName github.com</span><br><span class="line">  PreferredAuthentications publickey</span><br><span class="line">  User xxxx</span><br><span class="line">  IdentityFile ~/.ssh/id_github</span><br><span class="line"></span><br><span class="line">Host Bm906.github.com</span><br><span class="line">HostName github.com</span><br><span class="line">  PreferredAuthentications publickey</span><br><span class="line">  User Bm906</span><br><span class="line">  IdentityFile ~/.ssh/id_github2</span><br></pre></td></tr></table></figure><p>ssh -T 测试</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># 旧账号</span><br><span class="line">ssh -T git@xxxx.github.com</span><br><span class="line"># 新账号，仅测试这个账号</span><br><span class="line">ssh -T git@Bm906.github.com</span><br></pre></td></tr></table></figure><h1 id="4-git-clone-x2F-pull-x2F-push测试"><a href="#4-git-clone-x2F-pull-x2F-push测试" class="headerlink" title="4. git clone&#x2F;pull&#x2F;push测试"></a>4. git clone&#x2F;pull&#x2F;push测试</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 单ssh clone</span></span><br><span class="line">git clone git@github.com:Bm906/test_01.git</span><br><span class="line"><span class="comment">// 多ssh clone</span></span><br><span class="line">git clone git@Bm906.github.com:Bm906/test_01.git</span><br></pre></td></tr></table></figure><h1 id="5-配置-2个-user-name-可不用设置"><a href="#5-配置-2个-user-name-可不用设置" class="headerlink" title="5. 配置 2个 user.name (可不用设置)"></a>5. 配置 2个 user.name (可不用设置)</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"># 查看全局配置</span><br><span class="line">git config --global user.name</span><br><span class="line">git config --global user.email</span><br><span class="line"></span><br><span class="line"># 查看本地配置(只能在 git 仓库中使用)</span><br><span class="line">git config --local user.name</span><br><span class="line">git config --local user.email</span><br><span class="line"></span><br><span class="line"># 删除全局设置</span><br><span class="line">git config --global --unset user.name</span><br><span class="line">git config --global --unset user.email</span><br><span class="line"></span><br><span class="line"># 添加本地设置(只能在 git 仓库中使用)</span><br><span class="line">git config --local user.name xxxx</span><br><span class="line">git config --local user.email xxxx@<span class="number">163.</span>com</span><br></pre></td></tr></table></figure><h1 id="6-git-init-测试-备用，实际用不上"><a href="#6-git-init-测试-备用，实际用不上" class="headerlink" title="6. git init 测试 (备用，实际用不上)"></a>6. git init 测试 (备用，实际用不上)</h1><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">git init </span><br><span class="line"></span><br><span class="line"># 连接远程仓库</span><br><span class="line">git remote add origin git@Bm906.github.com:Bm906/test_01.git</span><br><span class="line"></span><br><span class="line">git branch -M main</span><br><span class="line"></span><br><span class="line"><span class="meta"># github默认分支已从 master 改为 main</span></span><br><span class="line">git pull --rebase origin main</span><br><span class="line"></span><br><span class="line">git add .</span><br><span class="line">git commit -m <span class="string">&quot;任意内容&quot;</span></span><br><span class="line"></span><br><span class="line">git push -u origin main</span><br></pre></td></tr></table></figure><p>切换 remote</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">git remote -v</span><br><span class="line">git remote rm origin</span><br><span class="line"></span><br><span class="line"><span class="comment">//git remote add origin git@github.com:Bm906/test_01.git</span></span><br><span class="line">#使用别名</span><br><span class="line">git remote add origin git@Bm906.github.com:Bm906/test_01.git</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-申请github账号&quot;&gt;&lt;a href=&quot;#1-申请github账号&quot; class=&quot;headerlink&quot; title=&quot;1. 申请github账号&quot;&gt;&lt;/a&gt;1. 申请github账号&lt;/h1&gt;&lt;p&gt;先申请github账号，后面也可以转其他网站&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/help.png" type="image"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/categories/%E5%B8%AE%E5%8A%A9/"/>
+    
+    
+    <category term="帮助" scheme="http://example.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件部项目详情--2023年05月</title>
+    <link href="http://example.com/post/ruanjian_23_05.html"/>
+    <id>http://example.com/post/ruanjian_23_05.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:00:13.612Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="平台-MTK"><a href="#平台-MTK" class="headerlink" title="平台: MTK"></a>平台: MTK</h2><p><code>K220D-YCD-Y31(5个品牌)</code></p><ul><li>主要需求: </li><li>预计完成时间: 软件无大改动，具体看测试和硬件相关时间来定</li><li>负责人: 徐向刚</li></ul><p><code>K220D-YCD-Y35(5个品牌)</code></p><ul><li>主要需求: </li><li>预计完成时间: 软件无大改动，具体看测试和硬件相关时间来定</li><li>负责人: 徐向刚</li></ul><p><code>K220D-YCD-Y36(5个品牌)</code></p><ul><li>主要需求: </li><li>预计完成时间: 软件无大改动，具体看测试和硬件相关时间来定</li><li>负责人: 徐向刚</li></ul><h2 id="平台-展讯（8910）"><a href="#平台-展讯（8910）" class="headerlink" title="平台: 展讯（8910）"></a>平台: 展讯（8910）</h2><p><code>手表手机DM问题</code></p><ul><li>主要需求: 空间问题，U盘移动问题</li><li>预计完成时间: 已提CQ，实时跟进</li><li>负责人: 徐向刚</li></ul><p><code>X213U_DM_MRD_A16-U_3In1_QVGA</code></p><ul><li>主要需求: 项目需求</li><li>预计完成时间: 等客户确认订单</li><li>负责人: 陈跃华</li></ul><p><code>F75U_MRD_F25T_SUB_DM</code></p><ul><li>主要需求: 副屏驱动</li><li>预计完成时间: 调36寄存器看看效果</li><li>负责人: 陈跃华</li></ul><h2 id="平台-展讯（107）"><a href="#平台-展讯（107）" class="headerlink" title="平台: 展讯（107）"></a>平台: 展讯（107）</h2><p><code>F13PRO-JL(大版本)</code></p><ul><li>主要需求: 大版本测试验证</li><li>预计完成时间: 5-10号</li><li>负责人: 徐向刚</li></ul><p><code>纵志问题跟进</code></p><ul><li>主要需求: T卡升级方式</li><li>预计完成时间: 已帮客户提CQ跟进，主要修改是对方修改</li><li>负责人: 徐向刚</li></ul><p><code>F55T_EASYTECK_F400</code></p><ul><li>主要需求: 屏蔽意大利区号（+39）</li><li>预计完成时间: 以提供软件给客户等反馈</li><li>负责人: 陈跃华</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;平台-MTK&quot;&gt;&lt;a href=&quot;#平台-MTK&quot; class=&quot;headerlink&quot; title=&quot;平台: MTK&quot;&gt;&lt;/a&gt;平台: MTK&lt;/h2&gt;&lt;p&gt;&lt;code&gt;K220D-YCD-Y31(5个品牌)&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主要需求: </summary>
+      
+    
+    
+    <content src="http://example.com/post/link/ruanjian.png" type="image"/>
+    
+    
+    <category term="软件" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件部项目详情--2023年05月</title>
+    <link href="http://example.com/post/ruanjian_23_06.html"/>
+    <id>http://example.com/post/ruanjian_23_06.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:01:27.124Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="平台-MTK"><a href="#平台-MTK" class="headerlink" title="平台: MTK"></a>平台: MTK</h2><h2 id="平台-展讯（8910）"><a href="#平台-展讯（8910）" class="headerlink" title="平台: 展讯（8910）"></a>平台: 展讯（8910）</h2><h2 id="平台-展讯（107）"><a href="#平台-展讯（107）" class="headerlink" title="平台: 展讯（107）"></a>平台: 展讯（107）</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;平台-MTK&quot;&gt;&lt;a href=&quot;#平台-MTK&quot; class=&quot;headerlink&quot; title=&quot;平台: MTK&quot;&gt;&lt;/a&gt;平台: MTK&lt;/h2&gt;&lt;h2 id=&quot;平台-展讯（8910）&quot;&gt;&lt;a href=&quot;#平台-展讯（8910）&quot; class=&quot;head</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/ruanjian.png" type="image"/>
+    
+    
+    <category term="软件" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件部项目详情--2023年05月</title>
+    <link href="http://example.com/post/ruanjian_23_07.html"/>
+    <id>http://example.com/post/ruanjian_23_07.html</id>
+    <published>2023-05-10T02:00:00.000Z</published>
+    <updated>2023-05-10T06:01:37.492Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="平台-MTK"><a href="#平台-MTK" class="headerlink" title="平台: MTK"></a>平台: MTK</h2><h2 id="平台-展讯（8910）"><a href="#平台-展讯（8910）" class="headerlink" title="平台: 展讯（8910）"></a>平台: 展讯（8910）</h2><h2 id="平台-展讯（107）"><a href="#平台-展讯（107）" class="headerlink" title="平台: 展讯（107）"></a>平台: 展讯（107）</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;平台-MTK&quot;&gt;&lt;a href=&quot;#平台-MTK&quot; class=&quot;headerlink&quot; title=&quot;平台: MTK&quot;&gt;&lt;/a&gt;平台: MTK&lt;/h2&gt;&lt;h2 id=&quot;平台-展讯（8910）&quot;&gt;&lt;a href=&quot;#平台-展讯（8910）&quot; class=&quot;head</summary>
+      
+    
+    
+    <content src="http://example.com/post/link/ruanjian.png" type="image"/>
+    
+    
+    <category term="软件" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/post/hello-world.html"/>
+    <id>http://example.com/post/hello-world.html</id>
+    <published>2023-05-09T11:42:44.257Z</published>
+    <updated>2023-05-09T11:39:29.895Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
